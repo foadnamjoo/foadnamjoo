@@ -1,16 +1,41 @@
-## Hi there 👋
+Hi there, I'm Foad Namjoo 👋
 
-<!--
-**foadnamjoo/foadnamjoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔬 About Me
 
-Here are some ideas to get you started:
+PhD Student in Computer Science at the University of Utah
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Research Focus: Geospatial Analysis
+
+Passionate About: Wearable technology, data science, and mobile applications
+
+🚀 Projects & Research
+
+🏆 MotionPII - A wearable-based data collection system
+
+📱 Flutter-based Survey App - A mobile application for real-time surveys
+
+🌍 Geospatial Data Analytics - Analyzing motion and environmental data
+
+📫 Connect With Me
+
+🌐 Personal Website (Update if applicable)
+
+💼 LinkedIn
+
+📝 Google Scholar
+
+✉️ Email: 
+
+🛠️ Skills & Tools
+
+Programming: Dart (Flutter), Python, JavaScript, C++
+
+Tools & Frameworks: MongoDB, Git
+
+Technologies: Bluetooth LE, Geospatial Analysis, Mobile Data Collection, Wearable devices
+
+
+
+
+📌 Feel free to connect, collaborate, and explore my work! 🚀
+
