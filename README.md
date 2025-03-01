@@ -1,13 +1,3 @@
-Hi there, I'm Foad Namjoo 👋
-
-🔬 About Me
-
-PhD Student in Computer Science at the University of Utah
-
-Research Focus: Geospatial Analysis
-
-Passionate About: Wearable technology, data science, and mobile applications
-
 🚀 Projects & Research
 
 🏆 MotionPII - A wearable-based data collection system
