@@ -1,9 +1,9 @@
 🚀 Projects & Research
-  
-  🏆 MotionPII - A wearable-based data collection system
-  📱 Flutter-based Survey App - A mobile application for real-time surveys
-  🌍 Geospatial Data Analytics - Analyzing motion and environmental data
-  
+
+🏆 MotionPII - A wearable-based data collection system
+📱 Flutter-based Survey App - A mobile application for real-time surveys
+🌍 Geospatial Data Analytics - Analyzing motion and environmental data
+
 
 
 🛠️ Skills & Tools
