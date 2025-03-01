@@ -10,11 +10,9 @@
 
 🌐 Personal Website (Update if applicable)
 
-💼 LinkedIn
+💼 LinkedI
 
-📝 Google Scholar
-
-✉️ Email: 
+✉️ Email: foad.namjoo@gmail.com
 
 🛠️ Skills & Tools
 
