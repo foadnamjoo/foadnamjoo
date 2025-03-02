@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+Hi there![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ============================================================================================================================
 
 I'm a Ph.D. student in Computer Science at the University of Utah, specializing in AI, geospatial analytics, and scalable machine learning systems. My work bridges research and real-world applications, from developing AI-powered motion tracking systems to designing algorithms for large-scale environmental data analysis. Passionate about solving complex problems, I build intelligent, efficient, and impactful solutions at the intersection of data science, software engineering, and machine learning.
