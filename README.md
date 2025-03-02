@@ -4,8 +4,9 @@ Hi there![](https://user-images.githubusercontent.com/18350557/176309783-0785949
 I'm Foad, a Ph.D. student in Computer Science at the University of Utah, specializing in AI, geospatial analytics, and scalable machine learning systems. My work bridges research and real-world applications, from developing AI-powered motion tracking systems to designing algorithms for large-scale environmental data analysis. Passionate about solving complex problems, I build intelligent, efficient, and impactful solutions at the intersection of data science, software engineering, and machine learning.
 
 * 🌍  I'm based in the United States
-* 🖥️  See my portfolio at [users.cs.utah.edu/~foad27](https://users.cs.utah.edu/~foad27/)
+* 🖥️  See my website at [users.cs.utah.edu/~foad27](https://users.cs.utah.edu/~foad27/)
 * ✉️  You can contact me at [foad.namjoo@gmail.com](mailto:foad.namjoo@gmail.com)
+* 🚀  I'm currently working on My Ph.D. Thesis on Geometry data analysis parallel with the MotionPI project
 
 <a href="https://x.com/FoadNamjoo" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=X&logoColor=white" />
