@@ -8,9 +8,7 @@ I'm Foad, a Ph.D. student in Computer Science at the University of Utah, special
 * ✉️  You can contact me at [foad.namjoo@gmail.com](mailto:foad.namjoo@gmail.com)
 * 🚀  I'm currently working on My Ph.D. Thesis on Geometry data analysis parallel with the MotionPI project
 
-<a href="https://x.com/FoadNamjoo" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=X&logoColor=white" />
-</a>
+
 
 
 ### Skills
