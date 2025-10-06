@@ -6,7 +6,7 @@ I'm Foad, a Ph.D. student in Computer Science at the University of Utah, special
 * 🌍  I'm based in the United States
 * 🖥️  See my website at [users.cs.utah.edu/~foad27](https://users.cs.utah.edu/~foad27/)
 * ✉️  You can contact me at [foad.namjoo@gmail.com](mailto:foad.namjoo@gmail.com)
-* 🚀  I'm currently working on My Ph.D. Thesis on Scan Statistics and Geometry data analysis parallel with the MotionPI project
+* 🚀  I'm currently working on dataset curation for LLM steering vector and Geometry data analysis parallel with the MotionPI project.
 
 
 
