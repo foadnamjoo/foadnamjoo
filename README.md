@@ -54,9 +54,12 @@ I'm Foad, a Ph.D. student in Computer Science at the University of Utah, special
       <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="32" height="32" />
     </picture>
   </a>
-   <a href="https://scholar.google.com/citations?user=--vMgtgAAAAJ&hl=en" target="_blank" rel="noreferrer">
-    <picture>
-      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlescholar.svg" width="32" height="32" alt="Google Scholar" />
-    </picture>
-  </a>
+<a href="https://scholar.google.com/citations?user=--vMgtgAAAAJ&hl=en" target="_blank" rel="noreferrer" style="margin-right: 10px;">
+  <picture>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlescholar.svg"
+         width="32" height="32"
+         alt="Google Scholar"
+         style="filter: invert(0.7) sepia(1) saturate(5) hue-rotate(180deg) brightness(1.4);" />
+  </picture>
+</a>
 </p>
