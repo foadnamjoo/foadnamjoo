@@ -10,6 +10,10 @@ I'm Foad, a Ph.D. student in Computer Science at the University of Utah, special
 * ✉️  You can contact me at [foad.namjoo@gmail.com](mailto:foad.namjoo@gmail.com)
 * 🚀  I'm currently working on dataset curation for LLM steering vector and Geometry data analysis parallel with the MotionPI project.
 
+## 🛠️ Open Source Contributions
+- Reported and reproduced a Flutter SDK versioning bug  
+  ([Issue #166937](https://github.com/flutter/flutter/issues/166937)),  
+  confirmed and triaged by the Flutter framework team (triaged-framework, P2).
 
 
 
