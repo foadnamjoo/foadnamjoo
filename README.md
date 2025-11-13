@@ -1,7 +1,7 @@
 Hi there![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ============================================================================================================================
 
-I'm Foad, a Ph.D. student in Computer Science at the University of Utah, specializing in interpretable AI, LLM steering, geospatial analytics, and scalable machine learning systems. My work bridges research and real-world applications, from developing wearable motion and health sensing tracking system to designing algorithms for large-scale environmental data analysis. Passionate about solving complex problems, I build intelligent, efficient, and impactful solutions at the intersection of data science, software engineering, and machine learning. Most of my repositories are private.
+I'm Foad, a Ph.D. student in Computer Science at the University of Utah, specializing in wearable data collection, LLM steering, geospatial analytics, and scalable machine learning systems. My work bridges research and real-world applications, from developing wearable motion and health sensing tracking system to designing algorithms for large-scale environmental data analysis. Passionate about solving complex problems, I build intelligent, efficient, and impactful solutions at the intersection of data science, software engineering, and machine learning. Most of my repositories are private.
 
 * 🌍  I'm based in the United States
 * 🖥️  See my website at [users.cs.utah.edu/~foad27](https://users.cs.utah.edu/~foad27/)
