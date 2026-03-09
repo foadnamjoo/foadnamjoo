@@ -61,8 +61,7 @@ I am a Ph.D. student in Computer Science at the University of Utah, conducting r
 
 <p align="left">
 <a href="https://users.cs.utah.edu/~foad27/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/aboutdotme/00ADEF"
-       width="32" height="32" alt="Personal Homepage" />
+  <img src="./profile-homepage-icon.png" width="32" height="32" alt="Personal Homepage" />
 </a>
   <a href="https://github.com/foadnamjoo" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg"
