@@ -1,53 +1,73 @@
-Hi there![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+# Hi, I'm Foad![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ============================================================================================================================
 
-I'm Foad, a Ph.D. student in Computer Science at the University of Utah, specializing in wearable data collection, LLM steering, geospatial analytics, and scalable machine learning systems. My work bridges research and real-world applications, from developing wearable motion and health sensing tracking system to designing algorithms for large-scale environmental data analysis. Passionate about solving complex problems, I build intelligent, efficient, and impactful solutions at the intersection of data science, software engineering, and machine learning. Most of my repositories are private.
-
-* 🌍  I'm based in the United States
-* 🖥️  See my website at [users.cs.utah.edu/~foad27](https://users.cs.utah.edu/~foad27/)
-* 🔗  Connect with me on LinkedIn: [linkedin.com/in/foadnamjoo](https://www.linkedin.com/in/foadnamjoo/)  
-* 📄  See my papers on [Google Scholar](https://scholar.google.com/citations?user=--vMgtgAAAAJ&hl=en)
-* ✉️  You can contact me at [foad.namjoo@gmail.com](mailto:foad.namjoo@gmail.com)
-* 🚀  I'm currently working on dataset curation for LLM activation steering and geometric data analysis, alongside the MotionPI wearable sensing project.
+Ph.D. student in Computer Science at the University of Utah, working on LLM steering, health wearable sensing, statistical algorithms, geospatial analytics, and scalable machine learning systems. Passionate about solving complex problems.
 
 
+## * 🚀 Selected Projects
 
+### [Efficient and Stable Multi-Dimensional Kolmogorov-Smirnov Distance (dKS)](https://arxiv.org/abs/2504.11299)
+A multidimensional extension of the Kolmogorov-Smirnov distance with efficient approximation algorithms and hypothesis-testing applications.
 
-## Selected Projects
+### [LLM Steering and Dataset Corruption](https://arxiv.org/abs/2603.03206)
+Research on robustness in activation steering for large language models and the effects of dataset corruption.
 
-### Efficient and Stable Multi-Dimensional Kolmogorov-Smirnov Distance (dKS)
-Research on multidimensional distribution comparison, introducing a principled extension of the Kolmogorov-Smirnov distance with efficient approximation algorithms, convergence guarantees, and hypothesis-testing applications.
+### [MotionPI](https://arxiv.org/abs/2510.19938)
+A full-stack wearable sensing platform built with Flutter, BLE wristband integration, and a Node.js/MongoDB backend.
 
-### LLM Steering and Dataset Corruption
-Research on robustness in activation steering for large language models, with a focus on understanding and mitigating dataset corruption effects.
-
-### MotionPI
-A full-stack wearable sensing platform for mobile health studies, built with Flutter, BLE wristband integration, and a Node.js/MongoDB backend for scalable real-world data collection.
-
-### Region-Aggregated Spatial Scan Statistics
-Algorithmic work on sampled-point methods for spatial anomaly detection, improving statistical power over centroid-based approaches.
-
+### [Region-Aggregated Spatial Scan Statistics](https://mmath.dev/pyscan/)
+Sampled-point methods for spatial anomaly detection with improved statistical power over centroid-based approaches.
 
 
 ## 🛠️ Open Source Contributions
-- Reported and reproduced a Flutter SDK versioning bug ([Issue #166937](https://github.com/flutter/flutter/issues/166937)), which was confirmed and triaged by the Google Flutter framework team (`triaged-framework`, `P2`).
+- Reported and reproduced a Google Flutter SDK versioning bug: [Issue #166937](https://github.com/flutter/flutter/issues/166937), which was confirmed and triaged by the Google Flutter framework team (`triaged-framework`, `P2`).
 
 
 
 ### Skills
 
-
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.xcode.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xcode.svg" width="36" height="36" alt="XCode" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg" width="36" height="36" alt="MacOS" /></a>
+  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" />
+  </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
+  </a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="36" height="36" alt="PyTorch" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
+  </a>
+  <a href="https://dart.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
+  </a>
+  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" />
+  </a>
+  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
+  </a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" />
+  </a>
+  <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" />
+  </a>
 </p>
 
 ### Socials
 
 <p align="left">
-  <a href="https://discord.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg"
-         width="32" height="32" alt="Discord" />
-  </a>
   <a href="https://github.com/foadnamjoo" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg"
          width="32" height="32" alt="GitHub" />
@@ -67,6 +87,7 @@ Algorithmic work on sampled-point methods for spatial anomaly detection, improvi
 <a href="https://scholar.google.com/citations?user=--vMgtgAAAAJ&hl=en" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg"
        width="32" height="32" alt="Google Scholar" />
+    </a>
   <a href="https://orcid.org/YOUR-ORCID-ID" target="_blank" rel="noreferrer">
   <img src="https://cdn.simpleicons.org/orcid/A6CE39"
        width="32" height="32" alt="ORCID" />
