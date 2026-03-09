@@ -10,6 +10,25 @@ I'm Foad, a Ph.D. student in Computer Science at the University of Utah, special
 * ✉️  You can contact me at [foad.namjoo@gmail.com](mailto:foad.namjoo@gmail.com)
 * 🚀  I'm currently working on dataset curation for LLM activation steering and geometric data analysis, alongside the MotionPI wearable sensing project.
 
+
+
+
+## Selected Projects
+
+### Efficient and Stable Multi-Dimensional Kolmogorov-Smirnov Distance (dKS)
+Research on multidimensional distribution comparison, introducing a principled extension of the Kolmogorov-Smirnov distance with efficient approximation algorithms, convergence guarantees, and hypothesis-testing applications.
+
+### LLM Steering and Dataset Corruption
+Research on robustness in activation steering for large language models, with a focus on understanding and mitigating dataset corruption effects.
+
+### MotionPI
+A full-stack wearable sensing platform for mobile health studies, built with Flutter, BLE wristband integration, and a Node.js/MongoDB backend for scalable real-world data collection.
+
+### Region-Aggregated Spatial Scan Statistics
+Algorithmic work on sampled-point methods for spatial anomaly detection, improving statistical power over centroid-based approaches.
+
+
+
 ## 🛠️ Open Source Contributions
 - Reported and reproduced a Flutter SDK versioning bug ([Issue #166937](https://github.com/flutter/flutter/issues/166937)), which was confirmed and triaged by the Google Flutter framework team (`triaged-framework`, `P2`).
 
