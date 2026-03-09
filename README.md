@@ -38,9 +38,8 @@ I'm Foad, a Ph.D. student in Computer Science at the University of Utah, special
          width="32" height="32" alt="LinkedIn" />
   </a>
 <a href="https://x.com/FoadNamjoo" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg"
-       width="32" height="32" alt="X (Twitter)"
-       style="filter: invert(1);" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg"
+       width="32" height="32" alt="X (Twitter)" />
 </a>
   <a href="https://huggingface.co/foadnamjoo" target="_blank" rel="noreferrer">
     <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg"
