@@ -1,5 +1,5 @@
-# Hi, I'm Foad!
-<img src="./221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc-ezgif.com-effects (5).gif" width="420" align="right" alt="data visualization animation" />
+Hi, I'm Foad!
+<img src="./221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc-ezgif.com-effects (5).gif" width="390" align="right" alt="data visualization animation" />
 
 Ph.D. student in Computer Science at the University of Utah, working on LLM steering, wearable sensing, statistical algorithms, geospatial analytics, and scalable machine learning systems.
 
