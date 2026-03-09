@@ -38,7 +38,7 @@ I'm Foad, a Ph.D. student in Computer Science at the University of Utah, special
          width="32" height="32" alt="LinkedIn" />
   </a>
 <a href="https://x.com/FoadNamjoo" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/en/6/60/Twitter_Logo_as_of_2021.svg"
+  <img src="https://cdn.simpleicons.org/x/1D9BF0"
        width="32" height="32" alt="X (Twitter)" />
 </a>
   <a href="https://huggingface.co/foadnamjoo" target="_blank" rel="noreferrer">
