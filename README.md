@@ -25,48 +25,30 @@ I'm Foad, a Ph.D. student in Computer Science at the University of Utah, special
 ### Socials
 
 <p align="left">
-  <a href="https://discord.com/users/foadnamjoo" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
-    </picture>
+  <a href="https://discord.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg"
+         width="32" height="32" alt="Discord" />
   </a>
-  <a href="https://www.github.com/foadnamjoo" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-    </picture>
+  <a href="https://github.com/foadnamjoo" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg"
+         width="32" height="32" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/foadnamjoo" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-    </picture>
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"
+         width="32" height="32" alt="LinkedIn" />
   </a>
-  <a href="https://www.x.com/FoadNamjoo" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
-    </picture>
+  <a href="https://x.com/FoadNamjoo" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg"
+         width="32" height="32" alt="X (Twitter)" />
   </a>
   <a href="https://huggingface.co/foadnamjoo" target="_blank" rel="noreferrer">
-    <picture>
-      <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="32" height="32" />
-    </picture>
+    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg"
+         width="32" height="32" alt="Hugging Face" />
   </a>
-<a href="https://scholar.google.com/citations?user=--vMgtgAAAAJ&hl=en" target="_blank" rel="noreferrer" style="margin-right: 10px;">
-  <picture>
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlescholar.svg"
-         width="32" height="32"
-         alt="Google Scholar"
-         style="filter: invert(0.7) sepia(1) saturate(5) hue-rotate(180deg) brightness(1.4);" />
-  </picture>
-</a>
+  <a href="https://scholar.google.com/citations?user=--vMgtgAAAAJ&hl=en" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlescholar.svg?color=4285F4"
+         width="32" height="32" alt="Google Scholar" />
+  </a>
 </p>
-
 
 
