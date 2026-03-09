@@ -1,7 +1,10 @@
-# Hi, I'm Foad! <img src="./221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc-ezgif.com-effects (5).gif" width="220" style="float:right;" alt="data visualization animation" />
+# Hi, I'm Foad!
+
+<p align="right">
+  <img src="./221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc-ezgif.com-effects (5).gif" width="165" alt="data visualization animation" />
+</p>
 
 Ph.D. student in Computer Science at the University of Utah, working on LLM steering, wearable sensing, statistical algorithms, geospatial analytics, and scalable machine learning systems.
-
 ## 🚀 Selected Projects
 
 - **[Efficient and Stable Multi-Dimensional Kolmogorov-Smirnov Distance (dKS)](https://arxiv.org/abs/2504.11299)** — A multidimensional extension of the Kolmogorov-Smirnov distance with efficient approximation algorithms and hypothesis-testing applications.
