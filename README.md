@@ -1,10 +1,9 @@
 # Hi, I'm Foad![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-============================================================================================================================
 
-Ph.D. student in Computer Science at the University of Utah, working on LLM steering, health wearable sensing, statistical algorithms, geospatial analytics, and scalable machine learning systems. Passionate about solving complex problems.
+Ph.D. student in Computer Science at the University of Utah, working on LLM steering, wearable sensing, statistical algorithms, geospatial analytics, and scalable machine learning systems.
 
 
-## * 🚀 Selected Projects
+## 🚀 Selected Projects
 
 ### [Efficient and Stable Multi-Dimensional Kolmogorov-Smirnov Distance (dKS)](https://arxiv.org/abs/2504.11299)
 A multidimensional extension of the Kolmogorov-Smirnov distance with efficient approximation algorithms and hypothesis-testing applications.
@@ -24,7 +23,7 @@ Sampled-point methods for spatial anomaly detection with improved statistical po
 
 
 
-### Skills
+## Skills
 
 <p align="left">
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
@@ -65,7 +64,7 @@ Sampled-point methods for spatial anomaly detection with improved statistical po
   </a>
 </p>
 
-### Socials
+## Socials
 
 <p align="left">
   <a href="https://github.com/foadnamjoo" target="_blank" rel="noreferrer">
@@ -88,7 +87,7 @@ Sampled-point methods for spatial anomaly detection with improved statistical po
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg"
        width="32" height="32" alt="Google Scholar" />
     </a>
-  <a href="https://orcid.org/YOUR-ORCID-ID" target="_blank" rel="noreferrer">
+<a href="https://orcid.org/0009-0004-7320-1484" target="_blank" rel="noreferrer">
   <img src="https://cdn.simpleicons.org/orcid/A6CE39"
        width="32" height="32" alt="ORCID" />
 </a>
