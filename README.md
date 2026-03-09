@@ -48,6 +48,9 @@ I'm Foad, a Ph.D. student in Computer Science at the University of Utah, special
 <a href="https://scholar.google.com/citations?user=--vMgtgAAAAJ&hl=en" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg"
        width="32" height="32" alt="Google Scholar" />
+  <a href="https://orcid.org/YOUR-ORCID-ID" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/orcid/A6CE39"
+       width="32" height="32" alt="ORCID" />
 </a>
 </p>
 
