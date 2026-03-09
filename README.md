@@ -60,7 +60,7 @@ I am a Ph.D. student in Computer Science at the University of Utah, conducting r
 ## Socials
 
 <a href="https://users.cs.utah.edu/~foad27/" target="_blank" rel="noreferrer">
-  <img src="https://www.svgrepo.com/show/526700/user-circle.svg"
+  <img src="https://api.iconify.design/material-symbols/account-circle.svg?color=%23ffffff"
        width="32" height="32" alt="Personal Homepage" />
 </a>
   <a href="https://github.com/foadnamjoo" target="_blank" rel="noreferrer">
