@@ -50,15 +50,7 @@ I'm Foad, a Ph.D. student in Computer Science at the University of Utah, special
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlescholar.svg"
        width="32" height="32" alt="Google Scholar"
        style="filter: invert(1);" />
-</a>
-  <a href="https://x.com/FoadNamjoo" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=for-the-badge"
-       height="24" alt="X (Twitter)" />
-</a>
-<a href="https://scholar.google.com/citations?user=--vMgtgAAAAJ&hl=en" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?logo=google-scholar&logoColor=white&style=for-the-badge"
-       height="24" alt="Google Scholar" />
-</a>
+ </a> 
 </p>
 
 
