@@ -3,7 +3,8 @@
 Ph.D. student in Computer Science at the University of Utah, working on LLM steering, wearable sensing, statistical algorithms, geospatial analytics, and scalable machine learning systems.
 
 <p align="center">
-  <img src="./221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc-ezgif.com-crop (2).gif" width="500" alt="data visualization animation" />
+  <img src="./221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc-ezgif.com-effects.gif
+" width="500" alt="data visualization animation" />
 </p>
 
 ## 🚀 Selected Projects
