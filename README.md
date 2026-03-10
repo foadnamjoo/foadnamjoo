@@ -31,14 +31,32 @@ I am a Ph.D. student in Computer Science at the University of Utah, conducting r
 **Tools** ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-## 🔗 Connect with Me
+## Socials
 
-<p align="left">
-<a href="https://scholar.google.com/citations?user=--vMgtgAAAAJ&hl=en" target="_blank"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"></a>
-<a href="https://huggingface.co/foadnamjoo" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge" alt="Hugging Face"></a>
-<a href="https://www.linkedin.com/in/foadnamjoo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://github.com/foadnamjoo" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-<a href="https://orcid.org/0009-0004-7320-1484" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"></a>
-<a href="https://x.com/FoadNamjoo" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
-<a href="https://users.cs.utah.edu/~foad27/" target="_blank"><img src="https://img.shields.io/badge/Personal%20Site-CC0000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
+<a href="https://users.cs.utah.edu/~foad27/" target="_blank" rel="noreferrer">
+  <img src="https://api.iconify.design/material-symbols/account-circle.svg?color=%23ffffff"
+       width="32" height="32" alt="Personal Homepage" />
+</a>
+  <a href="https://www.linkedin.com/in/foadnamjoo" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"
+         width="32" height="32" alt="LinkedIn" />
+  </a>
+<a href="https://x.com/FoadNamjoo" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/x/1D9BF0"
+       width="32" height="32" alt="X (Twitter)" />
+</a>
+  <a href="https://huggingface.co/foadnamjoo" target="_blank" rel="noreferrer">
+    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg"
+         width="32" height="32" alt="Hugging Face" />
+  </a>
+<a href="https://scholar.google.com/citations?user=--vMgtgAAAAJ&hl=en" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg"
+       width="32" height="32" alt="Google Scholar" />
+    </a>
+<a href="https://orcid.org/0009-0004-7320-1484" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/orcid/A6CE39"
+       width="32" height="32" alt="ORCID" />
+</a>
 </p>
+
+
