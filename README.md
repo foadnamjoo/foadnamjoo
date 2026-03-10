@@ -1,5 +1,5 @@
 
-<img src="./timeseries_demo.gif" width="450" align="right" alt="data visualization animation" />
+
 
 I am a Ph.D. student in Computer Science at the University of Utah, conducting research in LLM steering, wearable sensing, statistical algorithms, geospatial analytics, and scalable machine learning.
 
