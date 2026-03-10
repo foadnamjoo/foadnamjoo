@@ -53,17 +53,11 @@ I am a Ph.D. student in Computer Science at the University of Utah, conducting r
 
 
 
-
----
-
 ## 📈 Activity & Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=foadnamjoo&show_icons=true&theme=radical" alt="Foad's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=foadnamjoo&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-
+| GitHub Stats | Top Languages |
+| :---: | :---: |
+| <img src="https://github-readme-stats.vercel.app/api?username=foadnamjoo&show_icons=true&theme=radical&hide_border=true" alt="Foad's GitHub Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=foadnamjoo&layout=compact&theme=radical&hide_border=true" alt="Top Languages" /> |
 
 
 
