@@ -13,7 +13,7 @@ I am a Ph.D. student in Computer Science at the University of Utah, conducting r
 
 
 ## 🛠️ Open Source Contributions
-- Reported and reproduced a Google Flutter SDK versioning bug: [Issue #166937](https://github.com/flutter/flutter/issues/166937), which was confirmed and triaged by the Google Flutter framework team (`triaged-framework`, `P2`).
+- Reported and reproduced a Google Flutter SDK versioning bug: [Issue #166937](https://github.com/flutter/flutter/issues/166937), confirmed and triaged by the Google Flutter framework team (`P2`).
 
 
 
@@ -53,11 +53,11 @@ I am a Ph.D. student in Computer Science at the University of Utah, conducting r
 
 
 
-## 📈 Activity & Stats
+## 📈 Top Languages
 
-| GitHub Stats | Top Languages |
-| :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=foadnamjoo&show_icons=true&theme=radical&hide_border=true" alt="Foad's GitHub Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=foadnamjoo&layout=compact&theme=radical&hide_border=true" alt="Top Languages" /> |
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=foadnamjoo&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
 
 
 
