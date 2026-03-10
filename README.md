@@ -25,7 +25,6 @@ I am a Ph.D. student in Computer Science at the University of Utah, conducting r
 <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="28" /></a>
 <a href="https://huggingface.co/"><img src="https://img.shields.io/badge/%F0%9F%A4%97_Hugging_Face-FFD21E?style=for-the-badge" height="28" /></a>
 <a href="https://github.com/TransformerLensOrg/TransformerLens"><img src="https://img.shields.io/badge/TransformerLens-blueviolet?style=for-the-badge" height="28" /></a>
-<img src="https://img.shields.io/badge/Activation_Steering-ff69b4?style=for-the-badge" height="28" />
 <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="28" /></a>
 <a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="28" /></a>
 <a href="https://developers.google.com/earth-engine"><img src="https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=for-the-badge&logo=googleearth&logoColor=white" height="28" /></a>
