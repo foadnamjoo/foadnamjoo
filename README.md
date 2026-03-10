@@ -19,38 +19,32 @@ I am a Ph.D. student in Computer Science at the University of Utah, conducting r
 
 
 
-### 🛠️ Technical Skills
+## 🛠️ Technical Skills
 
-**AI & Machine Learning**
+**Research & AI**  
 <p align="left">
-  <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /></a>
-  <a href="https://huggingface.co/"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge" /></a>
-  <a href="https://github.com/TransformerLensOrg/TransformerLens"><img src="https://img.shields.io/badge/TransformerLens-Interpretability-blueviolet?style=for-the-badge" /></a>
-  <a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Activation_Steering-Research-ff69b4?style=for-the-badge" />
+<a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="28" /></a>
+<a href="https://huggingface.co/"><img src="https://img.shields.io/badge/%F0%9F%A4%97_Hugging_Face-FFD21E?style=for-the-badge" height="28" /></a>
+<a href="https://github.com/TransformerLensOrg/TransformerLens"><img src="https://img.shields.io/badge/TransformerLens-blueviolet?style=for-the-badge" height="28" /></a>
+<img src="https://img.shields.io/badge/Activation_Steering-ff69b4?style=for-the-badge" height="28" />
+<a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="28" /></a>
+<a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="28" /></a>
+<a href="https://developers.google.com/earth-engine"><img src="https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=for-the-badge&logo=googleearth&logoColor=white" height="28" /></a>
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28" /></a>
 </p>
 
-**Mobile & Wearable Sensing**
+**Development & Systems**  
 <p align="left">
-  <a href="https://flutter.dev/"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/BLE-Bluetooth_Low_Energy-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white" />
-  <img src="https://img.shields.io/badge/On--Device_Pipelines-Real--Time-success?style=for-the-badge" />
-</p>
-
-**Systems & Backend**
-<p align="left">
-  <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a>
-  <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/REST_APIs-Expertise-blue?style=for-the-badge" />
-  <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>
-  <a href="https://podman.io/"><img src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white" /></a>
-</p>
-
-**Cloud & Infrastructure**
-<p align="left">
-  <img src="https://img.shields.io/badge/Cloud_GPUs-NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI/CD-Pipelines-orange?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
+<a href="https://flutter.dev/"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="28" /></a>
+<a href="https://kotlinlang.org/"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" height="28" /></a>
+<img src="https://img.shields.io/badge/BLE-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white" height="28" />
+<a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="28" /></a>
+<img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge" height="28" />
+<a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="28" /></a>
+<a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="28" /></a>
+<a href="https://podman.io/"><img src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white" height="28" /></a>
+<a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="28" /></a>
+<img src="https://img.shields.io/badge/CI%2FCD-222222?style=for-the-badge&logo=githubactions&logoColor=white" height="28" />
 </p>
 
 
