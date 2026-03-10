@@ -53,7 +53,6 @@ I am a Ph.D. student in Computer Science at the University of Utah, conducting r
 
 
 
-## 📈 Top Languages
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=foadnamjoo&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
