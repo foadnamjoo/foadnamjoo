@@ -3,6 +3,7 @@
 
 I am a Ph.D. student in Computer Science at the University of Utah, conducting research in LLM steering, wearable sensing, statistical algorithms, geospatial analytics, and scalable machine learning.
 
+
 ## 🚀 Selected Projects
 
 - **[Efficient and Stable Multi-Dimensional Kolmogorov-Smirnov Distance (dKS)](https://arxiv.org/abs/2504.11299)** — A multidimensional extension of the Kolmogorov-Smirnov distance with efficient approximation algorithms and hypothesis-testing applications.
@@ -50,6 +51,11 @@ I am a Ph.D. student in Computer Science at the University of Utah, conducting r
 </p>
 
 
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=foadnamjoo&show_icons=true&theme=radical" alt="Foad's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=foadnamjoo&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 
 ## Socials
