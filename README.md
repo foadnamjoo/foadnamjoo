@@ -50,8 +50,7 @@ I am a Ph.D. student in Computer Science at the University of Utah, conducting r
 
 
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=foadnamjoo&theme=radical" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=foadnamjoo&layout=compact&theme=radical&hide_border=true" /></p>
 
 
 
