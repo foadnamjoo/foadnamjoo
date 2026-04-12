@@ -50,8 +50,7 @@ I am a Ph.D. student in Computer Science at the University of Utah, conducting r
 
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=foad27&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=foadnamjoo&show_icons=true&theme=radical" alt="GitHub Stats" /></p>
 
 
 
