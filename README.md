@@ -6,7 +6,7 @@ I am a Ph.D. student in Computer Science at the University of Utah, conducting r
 
 
 ## 🛠️ Open Source Contributions
-- Reported and reproduced a Google Flutter SDK versioning bug: [Issue #166937](https://github.com/flutter/flutter/issues/166937), confirmed and triaged by the Google Flutter framework team (`P2`).
+- Reported/reproduced a Google Flutter SDK versioning bug: [Issue #166937](https://github.com/flutter/flutter/issues/166937), confirmed by the Google framework team (`P2` triaged).
 
 
 
