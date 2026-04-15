@@ -36,24 +36,12 @@
 
 ## 🌐 Socials
 <p align="left">
-<a href="https://users.cs.utah.edu/~foad27/">
-  <img src="https://api.iconify.design/material-symbols/account-circle.svg?color=%23ffffff" width="22" style="margin-right:8px"/>
-</a>
-<a href="https://www.linkedin.com/in/foadnamjoo">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="22" style="margin-right:8px"/>
-</a>
-<a href="https://x.com/FoadNamjoo">
-  <img src="https://cdn.simpleicons.org/x/white" width="22" style="margin-right:8px"/>
-</a>
-<a href="https://huggingface.co/foadnamjoo">
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="22" style="margin-right:8px"/>
-</a>
-<a href="https://scholar.google.com/citations?user=--vMgtgAAAAJ">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" width="22" style="margin-right:8px"/>
-</a>
-<a href="https://orcid.org/0009-0004-7320-1484">
-  <img src="https://cdn.simpleicons.org/orcid/A6CE39" width="22"/>
-</a>
+<a href="https://users.cs.utah.edu/~foad27/"><img src="https://api.iconify.design/material-symbols/account-circle.svg?color=%23ffffff" width="24"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/foadnamjoo"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="24"></a>&nbsp;&nbsp;
+<a href="https://x.com/FoadNamjoo"><img src="https://cdn.simpleicons.org/x/white" width="24"></a>&nbsp;&nbsp;
+<a href="https://huggingface.co/foadnamjoo"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="24"></a>&nbsp;&nbsp;
+<a href="https://scholar.google.com/citations?user=--vMgtgAAAAJ"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" width="24"></a>&nbsp;&nbsp;
+<a href="https://orcid.org/0009-0004-7320-1484"><img src="https://cdn.simpleicons.org/orcid/A6CE39" width="24"></a>
 </p>
 
 
