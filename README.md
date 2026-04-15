@@ -1,7 +1,7 @@
-## 🛠️ Open Source Contributions
+## 🚀 Open Source Contributions
 - Reported/reproduced a Google Flutter SDK versioning bug: [Issue #166937](https://github.com/flutter/flutter/issues/166937), confirmed by the Google framework team (`P2` triaged).
 
-## 🛠️ Research & AI Skills
+## 🧠 Research & AI Skills
 <p align="left">
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" height="20" />
 <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat" height="20" />
@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/Cloud_GPUs-412991?style=flat" height="20" />
 </p>
 
-## 🛠️ Dev & Systems Technical Skills
+## ⚙️ Dev & Systems Technical Skills
 <p align="left">
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" height="20" />
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" height="20" />
@@ -34,9 +34,26 @@
 <img src="https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat&logo=html5&logoColor=white" height="20" />
 </p>
 
-## Socials
+## 🌐 Socials
 <p align="left">
-<a href="https://users.cs.utah.edu/~foad27/"><img src="https://api.iconify.design/material-symbols/account-circle.svg?color=%23ffffff" width="22"/></a><a href="https://www.linkedin.com/in/foadnamjoo"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="22"/></a><a href="https://x.com/FoadNamjoo"><img src="https://cdn.simpleicons.org/x/white" width="22"/></a><a href="https://huggingface.co/foadnamjoo"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="22"/></a><a href="https://scholar.google.com/citations?user=--vMgtgAAAAJ"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" width="22"/></a><a href="https://orcid.org/0009-0004-7320-1484"><img src="https://cdn.simpleicons.org/orcid/A6CE39" width="22"/></a>
+<a href="https://users.cs.utah.edu/~foad27/">
+  <img src="https://api.iconify.design/material-symbols/account-circle.svg?color=%23ffffff" width="22" style="margin-right:8px"/>
+</a>
+<a href="https://www.linkedin.com/in/foadnamjoo">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="22" style="margin-right:8px"/>
+</a>
+<a href="https://x.com/FoadNamjoo">
+  <img src="https://cdn.simpleicons.org/x/white" width="22" style="margin-right:8px"/>
+</a>
+<a href="https://huggingface.co/foadnamjoo">
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="22" style="margin-right:8px"/>
+</a>
+<a href="https://scholar.google.com/citations?user=--vMgtgAAAAJ">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" width="22" style="margin-right:8px"/>
+</a>
+<a href="https://orcid.org/0009-0004-7320-1484">
+  <img src="https://cdn.simpleicons.org/orcid/A6CE39" width="22"/>
+</a>
 </p>
 
 
