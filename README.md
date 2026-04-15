@@ -1,5 +1,5 @@
 ## 🚀 Open Source Contributions
-- Reported/reproduced a Google Flutter SDK versioning bug: [Issue #166937](https://github.com/flutter/flutter/issues/166937), confirmed by the Google framework team (`P2` triaged).
+-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" height="20"/> Reported/reproduced a Google Flutter SDK versioning bug: [Issue #166937](https://github.com/flutter/flutter/issues/166937), confirmed by the Google framework team (`P2` triaged).
 
 ## 🧠 Research & AI Skills
 <p align="left">
