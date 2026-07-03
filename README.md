@@ -1,3 +1,5 @@
+*CS PhD @ Utah — LLM interpretability & activation steering, high-dimensional statistics (dKS), and field-deployed sensing systems (MotionPI). Full story: [users.cs.utah.edu/~foad27](https://users.cs.utah.edu/~foad27/)*
+
 ### Technical toolbox — hands-on
 
 | | |
