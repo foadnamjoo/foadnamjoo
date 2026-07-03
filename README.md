@@ -15,4 +15,48 @@ CS PhD student at the University of Utah (Kahlert School of Computing, [UtahDB L
 
 Also: reported and reproduced a Flutter SDK versioning bug ([flutter#166937](https://github.com/flutter/flutter/issues/166937)) — confirmed and P2-triaged by the Google framework team.
 
-**Stack:** Python · C++ · PyTorch (CUDA) · Hugging Face · TransformerLens · Flutter/Dart · Node.js · MongoDB · Docker · CI/CD
+### 🧠 ML & LLMs
+*Steering pipelines with layer/α sweeps on Llama 3.1 and Qwen-2.5, LLM-judge + JSON-schema eval guardrails, benchmark auditing, dataset curation.*
+<p align="left">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="20" />
+<img src="https://img.shields.io/badge/PyTorch_(CUDA)-EE4C2C?style=flat&logo=pytorch&logoColor=white" height="20" />
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat" height="20" />
+<img src="https://img.shields.io/badge/TransformerLens-blueviolet?style=flat" height="20" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" height="20" />
+<img src="https://img.shields.io/badge/Sklearn-F7931E?style=flat&logo=scikit-learn&logoColor=white" height="20" />
+<img src="https://img.shields.io/badge/Cloud_GPUs-412991?style=flat" height="20" />
+<img src="https://img.shields.io/badge/GEE-4285F4?style=flat&logo=googleearth&logoColor=white" height="20" />
+</p>
+
+### ⚙️ Systems, mobile & wearables
+*Sole developer of MotionPI: wristband → Flutter app → REST API → MongoDB, offline-first with schema-validated sync at ~7.7M records/day.*
+<p align="left">
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" height="20" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" height="20" />
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" height="20" />
+<img src="https://img.shields.io/badge/BLE-0082FC?style=flat&logo=bluetooth&logoColor=white" height="20" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" height="20" />
+<img src="https://img.shields.io/badge/Node-339933?style=flat&logo=nodedotjs&logoColor=white" height="20" />
+<img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" height="20" />
+<img src="https://img.shields.io/badge/REST_APIs-005571?style=flat" height="20" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" height="20" />
+<img src="https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat&logo=html5&logoColor=white" height="20" />
+</p>
+
+### 🧮 Algorithms & native code
+*dKS: header-only C++ core with pybind11 Python bindings, CMake/Make builds, correctness tests against an O(n³) reference.*
+<p align="left">
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" height="20" />
+<img src="https://img.shields.io/badge/pybind11-4B8BBE?style=flat" height="20" />
+<img src="https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white" height="20" />
+</p>
+
+### 🛠️ Infra & tooling
+<p align="left">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" height="20" />
+<img src="https://img.shields.io/badge/Podman-892CA0?style=flat&logo=podman&logoColor=white" height="20" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" height="20" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" height="20" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="20" />
+<img src="https://img.shields.io/badge/CI%2FCD-222222?style=flat&logo=githubactions&logoColor=white" height="20" />
+</p>
