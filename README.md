@@ -1,9 +1,3 @@
-# Foad Namjoo
-
-CS PhD student at the University of Utah (Kahlert School of Computing, [UtahDB Lab](https://mod.cs.utah.edu/)) — I make LLMs more interpretable with activation steering, prove things about high-dimensional statistics, and build the systems that put both into the field. PhD expected May 2028.
-
-**[Website](https://users.cs.utah.edu/~foad27/) · [Google Scholar](https://scholar.google.com/citations?user=--vMgtgAAAAJ) · [LinkedIn](https://www.linkedin.com/in/foadnamjoo) · [Hugging Face](https://huggingface.co/foadnamjoo) · foad.namjoo@utah.edu**
-
 ### What I've shipped
 
 | | |
